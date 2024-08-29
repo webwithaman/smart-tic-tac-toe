@@ -34,21 +34,21 @@
 2. Navigate to the project directory:
 
    ```bash
-   cd smart-tac-tac-toe
+   cd smart-tic-tac-toe
 
    ```
 
 3. Compile the C code using a C compiler. For example:
 
    ```bash
-   gcc smart-tac-tac-toe.c -o smart-tac-tac-toe
+   gcc smart-tic-tac-toe.c -o smart-tic-tac-toe
 
    ```
 
 4. Run the compiled program:
 
    ```bash
-   ./smart-tac-tac-toe
+   ./smart-tic-tac-toe
    ```
 
 ## Requirements
